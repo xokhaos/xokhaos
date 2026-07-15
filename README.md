@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="pic.webp" alt="Moonlash & Khaos" width="480">
+<img src="khaos_chill.jpg" />
 
-# Hey, I'm Khaos
+# yo this is Khaos
 
 </div>
 
-Catboy developer 3D Vtuber and I build Moonlash, a AI VTuber. 
+I am 3D Vtuber streamer, Catboy, developer and I build Moonlash, an AI VTuber. 
 
 I also built the AI VTuber Directory at [aivtuber.tv](https://aivtuber.tv/). That's where you go to find every AI VTuber in the scene. Neuro-sama, Moonlash, Exilium, Viola, all of them. If it's an AI streamer worth watching, it's listed there. The data is published as JSON and CSV under CC0 if you want to mess with it.
 
