@@ -31,7 +31,7 @@ The scene is small but active. We're all friends, we hang out, and everyone's bu
 
 
 # Want to know what Moonlash can do?
-# [![Moonlash](https://img.shields.io/badge/xokhaos.com-Home-ff2d55?style=for-the-badge)]([https://xokhaos.com](https://github.com/xokhaos/Moonlash))
+[![Moonlash](https://img.shields.io/badge/xokhaos.com-Home-ff2d55?style=for-the-badge)]([https://xokhaos.com](https://github.com/xokhaos/Moonlash))
 
 </div>
 
