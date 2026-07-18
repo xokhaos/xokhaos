@@ -28,3 +28,6 @@ The scene is small but active. We're all friends, we hang out, and everyone's bu
 [![aivtuber.tv](https://img.shields.io/badge/aivtuber.tv-Directory-00e5ff?style=for-the-badge)](https://aivtuber.tv/)
 
 </div>
+
+# Want to know what Moonlash can do?
+[https://github.com/xokhaos/Moonlash](https://github.com/xokhaos/Moonlash)
