@@ -1,6 +1,6 @@
 <div align="center">
 
-# Want to know what Moonlash can do?
+## Want to know what Moonlash can do?
 https://github.com/xokhaos/Moonlash
 
 <img src="khaos_chill.jpg" />
