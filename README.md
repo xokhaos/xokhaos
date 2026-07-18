@@ -24,12 +24,14 @@ The scene is small but active. We're all friends, we hang out, and everyone's bu
 [![TikTok](https://img.shields.io/badge/TikTok-@xokhaosmoon-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@xokhaosmoon/)
 [![Instagram](https://img.shields.io/badge/Instagram-@xo__khaos-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xo_khaos/)
 [![Bluesky](https://img.shields.io/badge/Bluesky-xokhaos-1185FE?style=for-the-badge)](https://bsky.app/profile/xokhaos.bsky.social)
+
 [![Website](https://img.shields.io/badge/xokhaos.com-Home-ff2d55?style=for-the-badge)](https://xokhaos.com)
+
 [![aivtuber.tv](https://img.shields.io/badge/aivtuber.tv-Directory-00e5ff?style=for-the-badge)](https://aivtuber.tv/)
 
 
 # Want to know what Moonlash can do?
-[![Moonlash](https://github.com/xokhaos/Moonlash)]
+# [![Moonlash](https://img.shields.io/badge/xokhaos.com-Home-ff2d55?style=for-the-badge)]([https://xokhaos.com](https://github.com/xokhaos/Moonlash))
 
 </div>
 
